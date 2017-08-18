@@ -1,0 +1,6 @@
+C:\IFPB\POD\Atividade01POD\Questao03\Questao03\Node1\bin\Debug\Node1.exe.config
+C:\IFPB\POD\Atividade01POD\Questao03\Questao03\Node1\bin\Debug\Node1.exe
+C:\IFPB\POD\Atividade01POD\Questao03\Questao03\Node1\bin\Debug\Node1.pdb
+C:\IFPB\POD\Atividade01POD\Questao03\Questao03\Node1\obj\Debug\Node1.exe
+C:\IFPB\POD\Atividade01POD\Questao03\Questao03\Node1\obj\Debug\Node1.pdb
+C:\IFPB\POD\Atividade01POD\Questao03\Questao03\Node1\obj\Debug\Node1.csprojResolveAssemblyReference.cache
